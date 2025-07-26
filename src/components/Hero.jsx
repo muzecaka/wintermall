@@ -14,7 +14,7 @@ function Hero() {
           <a href="/assets/hero.jpg" target="_blank" rel="noopener noreferrer">
             <img src="/assets/hero.jpg" 
             alt="Snow Park" 
-            className="w-full h-auto maxh-90 object-cover rounded-lg" />
+            className="w-full h-auto maxh-96 object-cover rounded-lg" />
           </a>
         </div>
       </div>
