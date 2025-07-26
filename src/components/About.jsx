@@ -24,7 +24,7 @@ function About() {
             <img
               src="/assets/main.jpg"
               alt="Snow Technology"
-              className="w-full h-80 object-cover rounded-lg shadow-lg"
+              className="w-full h-auto maxh-80 object-cover rounded-lg shadow-lg"
             />
           </a>
         </div>
