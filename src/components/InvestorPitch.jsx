@@ -12,21 +12,21 @@ function InvestorPitch() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="text-center">
             <a href="/assets/pitch-market.jpg" target="_blank" rel="noopener noreferrer">
-              <img src="/wintermall/public/assets/pitch-market.jpg" alt="Market Opportunity" className="w-full h-48 object-cover rounded-lg mb-4" />
+              <img src="/assets/pitch-market.jpg" alt="Market Opportunity" className="w-full h-48 object-cover rounded-lg mb-4" />
             </a>
             <h3 className="text-xl font-semibold">Market Opportunity</h3>
             <p className="text-gray-600">Amusement park industry growing at 5% annually.</p>
           </div>
           <div className="text-center">
             <a href="/assets/pitch-scalable.jpg" target="_blank" rel="noopener noreferrer">
-              <img src="/wintermall/public/assets/pitch-scalable.jpg" alt="Scalable Model" className="w-full h-48 object-cover rounded-lg mb-4" />
+              <img src="/assets/pitch-scalable.jpg" alt="Scalable Model" className="w-full h-48 object-cover rounded-lg mb-4" />
             </a>
             <h3 className="text-xl font-semibold">Scalable Model</h3>
             <p className="text-gray-600">Potential for multiple locations worldwide.</p>
           </div>
           <div className="text-center">
             <a href="/assets/pitch-roi.jpg" target="_blank" rel="noopener noreferrer">
-              <img src="/wintermall/public/assets/pitch-roi.jpg" alt="Projected ROI" className="w-full h-48 object-cover rounded-lg mb-4" />
+              <img src="/assets/pitch-roi.jpg" alt="Projected ROI" className="w-full h-48 object-cover rounded-lg mb-4" />
             </a>
             <h3 className="text-xl font-semibold">Projected ROI</h3>
             <p className="text-gray-600">Strong returns within 3-5 years.</p>

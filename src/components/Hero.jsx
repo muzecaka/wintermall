@@ -12,7 +12,7 @@ function Hero() {
         </a>
         <div className="mt-8">
           <a href="/assets/hero.jpg" target="_blank" rel="noopener noreferrer">
-            <img src="/wintermall/public/assets/hero.jpg" alt="Snow Park" className="w-full h-96 object-cover rounded-lg" />
+            <img src="/assets/hero.jpg" alt="Snow Park" className="w-full h-96 object-cover rounded-lg" />
           </a>
         </div>
       </div>

@@ -10,7 +10,7 @@ function Attractions() {
           <div className="text-center">
             <a href="/assets/slide.jpg" target="_blank" rel="noopener noreferrer">
               <img
-                src="/wintermall/public/assets/slide.jpg"
+                src="/assets/slide.jpg"
                 alt="Snow Slides"
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
@@ -21,7 +21,7 @@ function Attractions() {
           <div className="text-center">
             <a href="/assets/tubing.jpg" target="_blank" rel="noopener noreferrer">
               <img
-                src="/wintermall/public/assets/tubing.jpg"
+                src="/assets/tubing.jpg"
                 alt="Tubing Tracks"
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
@@ -32,7 +32,7 @@ function Attractions() {
           <div className="text-center">
             <a href="/assets/sensory.jpg" target="_blank" rel="noopener noreferrer">
               <img
-                src="/wintermall/public/assets/sensory.jpg"
+                src="/assets/sensory.jpg"
                 alt="Sensory Snow Play"
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
@@ -43,7 +43,7 @@ function Attractions() {
           <div className="text-center">
             <a href="/assets/climbing.jpg" target="_blank" rel="noopener noreferrer">
               <img
-                src="/wintermall/public/assets/climbing.jpg"
+                src="/assets/climbing.jpg"
                 alt="Ice Climbing Wall"
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
@@ -54,7 +54,7 @@ function Attractions() {
           <div className="text-center">
             <a href="/assets/dance.jpg" target="_blank" rel="noopener noreferrer">
               <img
-                src="/wintermall/public/assets/dance.jpg"
+                src="/assets/dance.jpg"
                 alt="Snow Dance Floor"
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
@@ -65,7 +65,7 @@ function Attractions() {
           <div className="text-center">
             <a href="/assets/madlabs.jpg" target="_blank" rel="noopener noreferrer">
               <img
-                src="/wintermall/public/assets/madlabs.jpg"
+                src="/assets/madlabs.jpg"
                 alt="Interactive Madlabs"
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />

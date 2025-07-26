@@ -45,7 +45,7 @@ function Contact() {
         </p>
         <div className="mt-8">
           <a href="/assets/contact.jpg" target="_blank" rel="noopener noreferrer">
-            <img src="/wintermall/public/assets/contact.jpg" alt="Contact" className="w-full h-64 object-cover rounded-lg" />
+            <img src="/assets/contact.jpg" alt="Contact" className="w-full h-64 object-cover rounded-lg" />
           </a>
         </div>
       </div>

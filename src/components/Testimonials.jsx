@@ -14,7 +14,7 @@ function Testimonials() {
             “This is the future of fun!”
           </blockquote>
           <figcaption className="mt-2 text-sm text-gray-500">
-            — Placeholder Stakeholder
+            Review will show here 
           </figcaption>
         </figure>
         <div className="text-center mt-6">

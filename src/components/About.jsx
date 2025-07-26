@@ -22,7 +22,7 @@ function About() {
         <div className="mt-8">
           <a href="/assets/main.jpg" target="_blank" rel="noopener noreferrer">
             <img
-              src="/wintermall/public/assets/main.jpg"
+              src="/assets/main.jpg"
               alt="Snow Technology"
               className="w-full h-80 object-cover rounded-lg shadow-lg"
             />

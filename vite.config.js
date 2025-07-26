@@ -1,14 +1,14 @@
+// vite.config.js
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
+  // ❌ Do NOT include base: '/wintermall/'
   build: {
-    outDir: 'build',
+    outDir: 'dist',
     rollupOptions: {
-      input: {
-        main: 'index.html', // Explicit entry point
-      },
+      input: '/index.html',
     },
   },
 });
